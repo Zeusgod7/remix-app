@@ -13,5 +13,6 @@ do {
 } while ($counter -lt $array.length)
 
 "Job Finished!"
+
 npm run build
 npm run start
