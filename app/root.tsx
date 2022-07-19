@@ -9,7 +9,7 @@ import {
   ScrollRestoration,
   useCatch,
 } from "@remix-run/react";
-import { QueryClient, QueryClientProvider } from "react-query";
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ExternalScripts } from "remix-utils";
 import type { ExternalScriptsFunction } from "remix-utils";
 
